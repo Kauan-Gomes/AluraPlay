@@ -8,4 +8,4 @@ function criarVideo(evento){
     const descricao = math.floor(math.random() *10).toString()
 }
 
-formulario.addEventListener("submit", evento => criarVideo(evento))
+formulario.addEventListener("submit", evento => criarVideo(evento)) 
