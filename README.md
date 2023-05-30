@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
 <hr>
-<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
+<p >Uma plataforma que é possível adicionar vídeos a sua tela principal com um formulário de cadastro e que possuí um mecanismo de busca para facilitar o uso para o usuário e melhor experiência.</p>
 
 ## Tecnologias utilizadas durante o curso
 * Javascript
