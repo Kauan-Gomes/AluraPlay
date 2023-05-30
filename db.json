@@ -64,32 +64,18 @@
       "id": 9
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "9 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 10
     },
     {
-      "titulo": "Educação coorporativa",
-      "descricao": "4 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "titulo": "Conhecendo NestJS | #AluraMais",
+      "descricao": "5 mil visualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 11
-    },
-    {
-      "titulo": "Educação coorporativa",
-      "descricao": "7 mil visualizações",
-      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 12
-    },
-    {
-      "titulo": "De Aluno a instrutor da Alura | João Manoel Lima",
-      "descricao": "9,2 mil visualizações",
-      "url": "https://www.youtube.com/embed/9ybbY_s0Iyg",
-      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-      "id": 13
     }
   ]
 }
